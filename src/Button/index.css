@@ -1,0 +1,18 @@
+button {
+  font-size: 1.3rem;
+  border-radius: 5px;
+  height: 2.5rem;
+  padding: 5px;
+  /* background-color: #fff;
+  border-color: #fff; */
+  border: 0px;
+}
+
+button:hover {
+  border: 1px;
+}
+
+button.point {
+  height: 2rem;
+  font-size: 1.2rem;
+}
